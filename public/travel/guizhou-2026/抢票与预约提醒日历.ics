@@ -1,0 +1,516 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//trip-planner//trip-gates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:贵州 7 天 · 贵阳为基地 — booking gates
+BEGIN:VEVENT
+UID:trip-181fd5d1c9@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260914T090000
+DTEND:20260914T100000
+SUMMARY:【今天就办·可免费取消】先锁贵阳 5 晚（拆两段
+ ）+ 西江 1 晚
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 立刻（2026-09-14
+ ）· 免费取消截止日按各家规则，普遍为 2026-09-28 至 10-0
+ 1\nDO: 距出发仅 17 天且正逢国庆，可免费取消的房源每天
+ 都在减少。先占住、再于 T-14（09-17）和 T-7（09-24）各比
+ 一次价，价掉了就退旧订新——这是唯一不用赌的动作
+ 。贵阳要订两笔：10-01→10-05（4 晚）与 10-06→10-07（1 晚
+ ），中间 10-05 那晚人在西江、贵阳退房把大件寄存前台
+ ，省下一晚房费；优先订同一家店，寄存与二次入住都
+ 省事。西江那一晚是全程唯一不可替代的住宿（看夜景+
+ 晨雾必须过夜）。\nLINK: https://hotels.ctrip.com/hotels/894075.htm
+ l?checkin=2026-10-01&checkout=2026-10-05&adult=2\nPRICE: 贵阳 ¥300–60
+ 0/晚 × 5 · 西江半山客栈 ¥500–900/晚 × 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【今天就办·可免费取消】先锁贵阳 5 晚
+ （拆两段）+ 西江 1 晚
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【今天就办·可免费取消】先锁贵阳 5 晚（
+ 拆两段）+ 西江 1 晚
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-d1768d23ac@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260917T090000
+DTEND:20260917T100000
+SUMMARY:【实名分时预约】黄果树景区门票 + 水帘洞单独时
+ 段（10-02）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-17 起可约
+ （提前 1–15 天），建议起售首日就约 · 最晚须在入园
+ 前一天 24:00 前完成\nDO: 无预约不入园。水帘洞每日限流 
+ 6\,000 人、需在门票之外单独勾选时段，约满页面变灰；
+ 若从携程等第三方买票，还必须回「安旅通」补录水帘
+ 洞时段，否则进不去（动静新闻 as-of 2026-07-22、携程 as-of
+  2026-09-04）。建议约 10:00–12:00 时段以匹配本行程 10:20 
+ 抵达游客中心的动线。\nLINK: https://www.hgscn.com/yd/\nPRICE: 
+ 旺季大门票 ¥160/人 + 观光车 ¥50/人 = ¥210/人
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【实名分时预约】黄果树景区门票 + 水
+ 帘洞单独时段（10-02）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【实名分时预约】黄果树景区门票 + 水帘洞
+ 单独时段（10-02）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-2a68c6407f@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260917T090000
+DTEND:20260917T100000
+SUMMARY:【比价后下单】郑州—贵阳往返两段机票（分别买
+ 单程，不捆绑往返）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-17 前 · 
+ 国庆机票越临近越贵，17 天窗口内一般不会再明显下探\n
+ DO: 下单页务必逐条核对：① 免费托运行李额（特价舱可
+ 能为 0）② 退改手续费阶梯 ③ 航站楼（去程落 T3、回程
+ 从 T2 走，不是同一座）。两段单程分开买的好处是任一
+ 段改期不牵连另一段。\nLINK: https://flights.ctrip.com/online/lis
+ t/oneway-cgo-kwe?depdate=2026-10-01&cabin=y_s&adult=2\nPRICE: 去程 ¥860
+ –1\,470/人 + 回程 ¥1\,040/人 ≈ ¥1\,900–2\,510/人
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【比价后下单】郑州—贵阳往返两段机
+ 票（分别买单程，不捆绑往返）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【比价后下单】郑州—贵阳往返两段机票（
+ 分别买单程，不捆绑往返）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-286e57a360@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260917T090000
+DTEND:20260917T100000
+SUMMARY:T-14 复核：逐项核对锚点开放时间与票价、预约放
+ 票时点是否仍在前方、航班与高铁时刻
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: T-14 · 2026-09-17\n
+ DO: 覆盖 legs 第 1–6 行（两段航班 + 四段城际高铁）与全
+ 部 7 个收费/预约锚点：黄果树（¥160+¥50）、小七孔（联
+ 票 ¥170）、西江（¥90+¥20）、青岩（¥10/¥60）、省博（
+ 免费需约）、黔灵山（免费需约）、甲秀楼（登楼 ¥2）
+ 。同时复核本行程所有价格的 as-of 均为 2026-09-14，届时
+ 已满两周。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: T-14 复核：逐项核对锚点开放时间与票价
+ 、预约放票时点是否仍在前方、航班与高铁时刻
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: T-14 复核：逐项核对锚点开放时间与票价、
+ 预约放票时点是否仍在前方、航班与高铁时刻
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-d920ff9978@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260918T090000
+DTEND:20260918T100000
+SUMMARY:【定闹钟·抢票】10-02 黄果树段车票：贵阳北→安
+ 顺西（去）+ 安顺西→贵阳北（回）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-18 · 各车
+ 站起售时间不同（08:00–18:00 分批），在 12306 App「我的
+ →起售时间」查本站起售点\nDO: 火车票预售期 15 天（即
+ 乘车日前第 14 天开售）：9-17 售 10-01、9-18 售 10-02、9-19 
+ 售 10-03、9-20 售 10-04、9-21 售 10-05、9-22 售 10-06、9-23 售 10
+ -07（中国铁路官方购票日历，光明网转载 https://m.gmw.cn/20
+ 26-09/14/content_1304563509.htm as-of 2026-09-14）。这一条只管 10-0
+ 2 这一天的两段——去回一次买齐。该区间日均 60+ 趟、
+ 余票压力最小，抢不到就顺延下一班，不影响当日结构
+ 。12306 App 可先做「购票信息预填」并订阅「起售提醒」
+ ，起售当日一键提交。\nLINK: https://www.12306.cn/index/\nPRICE: 
+ 去程 ¥54/人 + 回程 ¥48/人 = ¥204 两人
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【定闹钟·抢票】10-02 黄果树段车票：贵
+ 阳北→安顺西（去）+ 安顺西→贵阳北（回）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【定闹钟·抢票】10-02 黄果树段车票：贵阳
+ 北→安顺西（去）+ 安顺西→贵阳北（回）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-f5fee3b2fa@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260920T090000
+DTEND:20260920T100000
+SUMMARY:【实名限流预约】荔波小七孔（含大小七孔联票）
+ （10-04）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-20 前后起
+ 可约 ⚠️ 具体开放窗口以官方渠道当日显示为准，建议
+ 与车票同日下手\nDO: 每日限流一万人、需实名预约（Trip.
+ com 荔波指南 as-of 2026-09-13）。08:00 开园、16:00 停止售票
+ 、16:30 停止入园。国庆观光车排队 30–60 分钟，第一批
+ 入园是唯一解。\nLINK: https://www.libo.gov.cn/\nPRICE: 大小七孔
+ 联票 ¥170/人（含观光车，2 日有效）；单小七孔 ¥120 + 
+ 观光车 ¥40
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【实名限流预约】荔波小七孔（含大小
+ 七孔联票）（10-04）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【实名限流预约】荔波小七孔（含大小七孔
+ 联票）（10-04）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-feaa65867c@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260920T090000
+DTEND:20260920T100000
+SUMMARY:【最易售罄·定闹钟】抢 10-04 贵阳北→荔波 D6171（0
+ 6:10）车票
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-20 起售当
+ 日 · 按贵阳北站起售时间点准时开抢\nDO: 起售日按官方
+ 购票日历（乘车日−14 天）核算：10-04 的票 2026-09-20 开
+ 售。这是全程风险最高的一张票：贵南高铁进荔波每日 2
+ 5 趟以上，但 06:10 首班是唯一能在 08:00 开门时第一批入
+ 园的班次，国庆必秒。抢不到的降级顺序：C5865（07:43→0
+ 9:25）→ 都匀东中转（C5873+G3577）→ 把荔波整日与 10-03 
+ 花溪日对调。\nLINK: https://www.12306.cn/index/\nPRICE: 二等座 ¥
+ 64/人（¥128 两人）
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【最易售罄·定闹钟】抢 10-04 贵阳北→
+ 荔波 D6171（06:10）车票
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【最易售罄·定闹钟】抢 10-04 贵阳北→荔波 
+ D6171（06:10）车票
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-707ea5523b@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260921T090000
+DTEND:20260921T100000
+SUMMARY:【定闹钟·抢票】10-05 贵阳北→凯里南（去西江）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-21 起售当
+ 日\nDO: 35 分钟车程、班次极密（早 7 点至晚 21 点），是
+ 四段城际里最不容易抢空的一段；但 10-05 当天要赶西江 
+ 12:00-17:00 的分时预约时段，晚于 15:00 到凯里南就拿不到
+ 日落位置，所以还是当日就买。\nLINK: https://www.12306.cn/ind
+ ex/\nPRICE: ¥60/人（¥120 两人）
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【定闹钟·抢票】10-05 贵阳北→凯里南（
+ 去西江）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【定闹钟·抢票】10-05 贵阳北→凯里南（去
+ 西江）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-43dd05d24e@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260921T090000
+DTEND:20260921T100000
+SUMMARY:【实名分时预约】西江千户苗寨门票 + 观光车（10-0
+ 5 的 12:00-17:00 时段）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-21 起可约
+  · 高峰期建议提前 3 天以上\nDO: 2026 年严格执行实名分
+ 时预约，四时段 08:00-12:00 / 12:00-17:00 / 17:00-20:00 / 20:00-23:5
+ 9（官网公告 as-of 2025-09-27）。选 12:00-17:00 段，进寨后门
+ 票数日内可刷脸多次进出，次日清早上观景台不必再买
+ 。\nLINK: http://www.xjqhmz.com/\nPRICE: 大门票 ¥90/人 + 观光车 
+ ¥20/人 = ¥110/人
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【实名分时预约】西江千户苗寨门票 + 
+ 观光车（10-05 的 12:00-17:00 时段）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【实名分时预约】西江千户苗寨门票 + 观光
+ 车（10-05 的 12:00-17:00 时段）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-0fc00adff7@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260922T090000
+DTEND:20260922T100000
+SUMMARY:【定闹钟·抢票】10-06 凯里南→贵阳北（返程）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-22 起售当
+ 日\nDO: 返程 12:31 那班决定了当天还能不能赶上省博（16:0
+ 0 停止入馆）。抢不到就退到 G980 13:46→14:21，省博仍来
+ 得及；再往后的班次当天省博就得放弃。\nLINK: https://www.
+ 12306.cn/index/\nPRICE: ¥63/人（¥126 两人）
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【定闹钟·抢票】10-06 凯里南→贵阳北（
+ 返程）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【定闹钟·抢票】10-06 凯里南→贵阳北（返
+ 程）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-341dbaf2d7@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260924T090000
+DTEND:20260924T100000
+SUMMARY:【健康准备】常规疫苗状态自查 + 随身药包（本次
+ 无旅行门诊要求，不含任何用药建议）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-24 前（出
+ 发前 1 周）\nDO: 境内旅行不需要旅行门诊、不需要任何
+ 入境疫苗证明。这一行只做两件事：① CDC 该页当前提示
+ 全球麻疹病例上升、建议国际旅行者完成 MMR 接种——是
+ 否需要补种请咨询本人医生，本计划不做任何用药或接
+ 种处方；② 备好随身药包：肠胃药（贵州菜酸辣且有折
+ 耳根）、创可贴与护膝（小七孔与天星桥步道长）、驱
+ 蚊液（荔波与西江水边傍晚蚊虫多）、晕车药。黔灵山
+ 猕猴抓咬的处置流程见行前须知的健康卡。\nLINK: https://w
+ wwnc.cdc.gov/travel/destinations/traveler/none/china\nPRICE: —
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【健康准备】常规疫苗状态自查 + 随身
+ 药包（本次无旅行门诊要求，不含任何用药建议）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【健康准备】常规疫苗状态自查 + 随身药包
+ （本次无旅行门诊要求，不含任何用药建议）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-9e4b0f1618@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260924T090000
+DTEND:20260924T100000
+SUMMARY:T-7 复核：重跑各基地天气预报，按天气规则重排当
+ 日主线
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: T-7 · 2026-09-24\nD
+ O: 覆盖贵阳、安顺黄果树、荔波、凯里西江四地。届时 1
+ 0-01 至 10-07 已进入 16 天预报窗口，用真实预报替换现在
+ 的「5 年同期实测 + 三模型气候平均」。判定线：降水概
+ 率 ≥60% 的日子把 rain_alt 提为主线（10-04 荔波、10-05 西
+ 江观景台首当其冲）；阵风 ≥50 km/h 则索道与观景台加
+ 备选。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: T-7 复核：重跑各基地天气预报，按天气
+ 规则重排当日主线
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: T-7 复核：重跑各基地天气预报，按天气规则
+ 重排当日主线
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-035ae2037e@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260926T090000
+DTEND:20260926T100000
+SUMMARY:【免费但必约】贵州省博物馆（10-06 周二）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-26 起可约
+ （系统支持提前 10 天）· 放票后当天约满是常态\nDO: 唯
+ 一官方预约渠道：微信公众号「贵州省博物馆」→ 菜单
+ 「预约」，或微信小程序「贵州省博物馆门户」→「预
+ 约参观」。除此之外没有第二个入口，任何第三方票务
+ 平台都不是官方渠道（贵州省博物馆官网《告观众书》as
+ -of 2026-08-04）。实名制预约、原则上非预约不得进馆，每
+ 日限流 15\,000 人，系统支持提前 10 天预约。开放 9:00–17
+ :00、16:00 停止入馆、周一闭馆；10-06 是周二，常规开放
+ 。免票场馆在国庆是最难抢的一类，放票 2 小时内约完
+ 。\nLINK: https://www.gzmuseum.com/gbgg/202607/1446.html\nPRICE: 免费
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【免费但必约】贵州省博物馆（10-06 周
+ 二）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【免费但必约】贵州省博物馆（10-06 周二）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-8242ab5109@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260928T090000
+DTEND:20260928T100000
+SUMMARY:T-3 复核：线路临时封闭/管制、景区限流公告、预
+ 约凭证是否都在手机里
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: T-3 · 2026-09-28\nD
+ O: 逐个移动日核对一次：10-02 安顺西站—黄果树直通车
+ 运营公告；10-04 荔波站接驳与小七孔当日限流；10-05/10-06
+  凯里南站—西江直通车末班时间。渠道：各景区官方公
+ 众号 + 12306 App 车次状态。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: T-3 复核：线路临时封闭/管制、景区限流
+ 公告、预约凭证是否都在手机里
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: T-3 复核：线路临时封闭/管制、景区限流公
+ 告、预约凭证是否都在手机里
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-19969384c2@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260930T090000
+DTEND:20260930T100000
+SUMMARY:【免费但必约】黔灵山公园（10-07）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 出发前完成即
+ 可，建议 2026-09-30 前 · 可当天补约但国庆日有约满风险\
+ nDO: 2026 年起入园需线上实名预约（as-of 2026-09-02）；60 岁
+ 以上及特殊人群走绿色通道免预约。\nLINK: https://m.gy.bendi
+ bao.com/tour/jingdianbao/\nPRICE: 门票 0 元；索道往返 ¥30/人（
+ 自愿）
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【免费但必约】黔灵山公园（10-07）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【免费但必约】黔灵山公园（10-07）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-74aefed631@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260930T090000
+DTEND:20260930T100000
+SUMMARY:【证件核验】身份证原件 × 2 + 电子证照备份（本
+ 次为境内行程，不涉及签证与出入境手续）
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-30 前完成
+ 自查\nDO: 郑州—贵阳往返为国内航段与省内高铁，无签
+ 证、无入境要求，这一行核的是实名制：① 两人身份证
+ 原件必须随身且分开放（机票、高铁票、黄果树/小七孔/
+ 西江/省博/黔灵山全部刷身份证进闸机，照片和复印件不
+ 认）；② 12306 账号的证件须为「已通过核验」状态，未
+ 核验的账号买不了票——现在就查，临到起售日再发现
+ 就来不及了；③ 身份证即将过期的，先办补换。\nLINK: ht
+ tps://www.12306.cn/index/\nPRICE: —
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【证件核验】身份证原件 × 2 + 电子证照
+ 备份（本次为境内行程，不涉及签证与出入境手续）
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【证件核验】身份证原件 × 2 + 电子证照备
+ 份（本次为境内行程，不涉及签证与出入境手续）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-ee1544e711@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260930T090000
+DTEND:20260930T100000
+SUMMARY:【出行前】离线地图与导航准备
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: 2026-09-30 前\nDO: 
+ 本行程所有地图深链已按高德（amap）生成，境内可直接
+ 点开；trip.kml 导入 Organic Maps 或高德「我的地图」后，景
+ 区内无信号路段也能看点位。\nLINK: https://organicmaps.app/\nP
+ RICE: 免费
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: 【出行前】离线地图与导航准备
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: 【出行前】离线地图与导航准备
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trip-ca2206bf4f@trip-planner
+DTSTAMP:20260914T112858Z
+SEQUENCE:5
+DTSTART:20260930T090000
+DTEND:20260930T100000
+SUMMARY:T-1 复核：手机电量方案、现金、证件、预约二维码
+ 离线截图
+DESCRIPTION:09:00 local\, wherever you are.\nDEADLINE: T-1 · 2026-09-30\nD
+ O: 身份证原件（全程实名核验，景区闸机刷的就是它）
+ ；每人 ¥300–500 现金（山区小摊与直通车偶有扫码失败
+ ）；充电宝（景区内一天下来手机耗电极快，且要靠它
+ 刷码）；把 4 张预约凭证截图存相册。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: T-1 复核：手机电量方案、现金、证件、
+ 预约二维码离线截图
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Now: T-1 复核：手机电量方案、现金、证件、预约
+ 二维码离线截图
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

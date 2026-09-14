@@ -17,6 +17,7 @@ const navigationTargets = [
   'travel/万宁.md',
   'travel/义乌&横店.md',
   'travel/长江.md',
+  'travel/贵州.md',
   'launch/Zsh.md',
   'launch/OpenCloudOS.md',
   'launch/Go.md',

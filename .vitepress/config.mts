@@ -1,5 +1,8 @@
 import { defineConfig } from 'vitepress'
 
+// 让 VitePress 把 kml 视为已知资源扩展名，避免链接被追加 .html 后缀
+process.env.VITE_EXTRA_EXTENSIONS = 'kml'
+
 const repository = 'https://github.com/zhangqian-silk/life-note'
 
 export default defineConfig({
@@ -8,6 +11,7 @@ export default defineConfig({
   lang: 'zh-CN',
   base: '/life-note/',
   lastUpdated: true,
+  ignoreDeadLinks: [/guizhou-2026/],
   srcExclude: [
     'README.md',
     'agent.md',
@@ -45,7 +49,8 @@ export default defineConfig({
             { text: '山西（下）', link: '/travel/山西（下）' },
             { text: '万宁', link: '/travel/万宁' },
             { text: '义乌与横店', link: '/travel/义乌&横店' },
-            { text: '长江游轮', link: '/travel/长江' }
+            { text: '长江游轮', link: '/travel/长江' },
+            { text: '贵州', link: '/travel/贵州' }
           ]
         }
       ],

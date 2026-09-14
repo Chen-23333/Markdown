@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>贵州 7 天 · 贵阳为基地</name>
+<Folder><name>Day 1 2026-10-01 — 落地即入夜 · 南明河边的第一盏灯</name>
+<Placemark><name>1. 贵阳龙洞堡国际机场T3</name><Point><coordinates>106.800700,26.538500,0</coordinates></Point></Placemark>
+<Placemark><name>2. 酒店·喷水池</name><Point><coordinates>106.713500,26.583600,0</coordinates></Point></Placemark>
+<Placemark><name>3. 甲秀楼</name><Point><coordinates>106.712600,26.568600,0</coordinates></Point></Placemark>
+<Placemark><name>4. 青云市集</name><Point><coordinates>106.724800,26.569700,0</coordinates></Point></Placemark>
+<Placemark><name>Day 1 route</name><Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style><LineString><coordinates>106.800700,26.538500,0 106.713500,26.583600,0 106.712600,26.568600,0 106.724800,26.569700,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>Day 2 2026-10-02 — 水帘洞背后 · 亚洲第一瀑的正面与反面</name>
+<Placemark><name>1. 酒店·喷水池</name><Point><coordinates>106.713500,26.583600,0</coordinates></Point></Placemark>
+<Placemark><name>2. 贵阳北站</name><Point><coordinates>106.637300,26.649200,0</coordinates></Point></Placemark>
+<Placemark><name>3. 安顺西站</name><Point><coordinates>105.873000,26.236000,0</coordinates></Point></Placemark>
+<Placemark><name>4. 黄果树游客中心</name><Point><coordinates>105.754600,25.996800,0</coordinates></Point></Placemark>
+<Placemark><name>5. 陡坡塘瀑布</name><Point><coordinates>105.694900,26.002800,0</coordinates></Point></Placemark>
+<Placemark><name>6. 黄果树大瀑布</name><Point><coordinates>105.699600,25.986600,0</coordinates></Point></Placemark>
+<Placemark><name>7. 天星桥</name><Point><coordinates>105.674100,25.949700,0</coordinates></Point></Placemark>
+<Placemark><name>Day 2 route</name><Style><LineStyle><color>ffff0000</color><width>3</width></LineStyle></Style><LineString><coordinates>106.713500,26.583600,0 106.637300,26.649200,0 105.873000,26.236000,0 105.754600,25.996800,0 105.694900,26.002800,0 105.699600,25.986600,0 105.674100,25.949700,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>Day 3 2026-10-03 — 六百年石头城 · 与一条走不完的河滩</name>
+<Placemark><name>1. 酒店·喷水池</name><Point><coordinates>106.713500,26.583600,0</coordinates></Point></Placemark>
+<Placemark><name>2. 青岩古镇</name><Point><coordinates>106.676600,26.342100,0</coordinates></Point></Placemark>
+<Placemark><name>3. 花溪十里河滩</name><Point><coordinates>106.668300,26.419700,0</coordinates></Point></Placemark>
+<Placemark><name>4. 青云市集</name><Point><coordinates>106.724800,26.569700,0</coordinates></Point></Placemark>
+<Placemark><name>Day 3 route</name><Style><LineStyle><color>ff00aa00</color><width>3</width></LineStyle></Style><LineString><coordinates>106.713500,26.583600,0 106.676600,26.342100,0 106.668300,26.419700,0 106.724800,26.569700,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>Day 4 2026-10-04 — 把绿宝石抢在开门那一刻</name>
+<Placemark><name>1. 酒店·喷水池</name><Point><coordinates>106.713500,26.583600,0</coordinates></Point></Placemark>
+<Placemark><name>2. 贵阳北站</name><Point><coordinates>106.637300,26.649200,0</coordinates></Point></Placemark>
+<Placemark><name>3. 荔波站</name><Point><coordinates>107.828600,25.463500,0</coordinates></Point></Placemark>
+<Placemark><name>4. 小七孔西门</name><Point><coordinates>107.601500,25.255300,0</coordinates></Point></Placemark>
+<Placemark><name>5. 小七孔东门</name><Point><coordinates>107.663900,25.267000,0</coordinates></Point></Placemark>
+<Placemark><name>6. 大七孔景区</name><Point><coordinates>107.631800,25.284600,0</coordinates></Point></Placemark>
+<Placemark><name>Day 4 route</name><Style><LineStyle><color>ff00aaff</color><width>3</width></LineStyle></Style><LineString><coordinates>106.713500,26.583600,0 106.637300,26.649200,0 107.828600,25.463500,0 107.601500,25.255300,0 107.663900,25.267000,0 107.631800,25.284600,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>Day 5 2026-10-05 — 等一千盏灯同时亮起来</name>
+<Placemark><name>1. 酒店·喷水池</name><Point><coordinates>106.713500,26.583600,0</coordinates></Point></Placemark>
+<Placemark><name>2. 贵阳北站</name><Point><coordinates>106.637300,26.649200,0</coordinates></Point></Placemark>
+<Placemark><name>3. 凯里南站</name><Point><coordinates>107.984500,26.523800,0</coordinates></Point></Placemark>
+<Placemark><name>4. 西江千户苗寨北门</name><Point><coordinates>108.178200,26.493500,0</coordinates></Point></Placemark>
+<Placemark><name>5. 西江一号观景台</name><Point><coordinates>108.185500,26.496600,0</coordinates></Point></Placemark>
+<Placemark><name>Day 5 route</name><Style><LineStyle><color>ffaa00aa</color><width>3</width></LineStyle></Style><LineString><coordinates>106.713500,26.583600,0 106.637300,26.649200,0 107.984500,26.523800,0 108.178200,26.493500,0 108.185500,26.496600,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>Day 6 2026-10-06 — 晨雾散尽前下山</name>
+<Placemark><name>1. 西江一号观景台</name><Point><coordinates>108.185500,26.496600,0</coordinates></Point></Placemark>
+<Placemark><name>2. 西江下寨风雨桥</name><Point><coordinates>108.173600,26.490100,0</coordinates></Point></Placemark>
+<Placemark><name>3. 西江千户苗寨北门</name><Point><coordinates>108.178200,26.493500,0</coordinates></Point></Placemark>
+<Placemark><name>4. 凯里南站</name><Point><coordinates>107.984500,26.523800,0</coordinates></Point></Placemark>
+<Placemark><name>5. 贵阳北站</name><Point><coordinates>106.637300,26.649200,0</coordinates></Point></Placemark>
+<Placemark><name>6. 贵州省博物馆</name><Point><coordinates>106.637100,26.624700,0</coordinates></Point></Placemark>
+<Placemark><name>7. 酒店·喷水池</name><Point><coordinates>106.713500,26.583600,0</coordinates></Point></Placemark>
+<Placemark><name>Day 6 route</name><Style><LineStyle><color>ff777777</color><width>3</width></LineStyle></Style><LineString><coordinates>108.185500,26.496600,0 108.173600,26.490100,0 108.178200,26.493500,0 107.984500,26.523800,0 106.637300,26.649200,0 106.637100,26.624700,0 106.713500,26.583600,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>Day 7 2026-10-07 — 临走前，去山上还一趟猴债</name>
+<Placemark><name>1. 酒店·喷水池</name><Point><coordinates>106.713500,26.583600,0</coordinates></Point></Placemark>
+<Placemark><name>2. 黔灵山公园</name><Point><coordinates>106.696600,26.593100,0</coordinates></Point></Placemark>
+<Placemark><name>3. 酒店前台取行李</name><Point><coordinates>106.713500,26.583600,0</coordinates></Point></Placemark>
+<Placemark><name>4. 贵阳龙洞堡国际机场T2</name><Point><coordinates>106.800700,26.538500,0</coordinates></Point></Placemark>
+<Placemark><name>Day 7 route</name><Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style><LineString><coordinates>106.713500,26.583600,0 106.696600,26.593100,0 106.713500,26.583600,0 106.800700,26.538500,0</coordinates></LineString></Placemark>
+</Folder>
+</Document></kml>
